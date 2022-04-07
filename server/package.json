@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Simple mern chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zamisyh/chat-room.git"
+  },
+  "author": "Zamzam Saputra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zamisyh/chat-room/issues"
+  },
+  "homepage": "https://github.com/zamisyh/chat-room#readme"
+}
